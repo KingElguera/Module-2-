@@ -128,7 +128,15 @@
 # print(set2)
 # # Print the results of each operation
 
-
+# Exercice 5
+# Books = [ 
+#     {"title": "l'étranger", "author": "lionel", "year": 2003},
+#     {"title": "influence_et_manipulation", "author": "nyekesi", "year": 1980},
+# ]
+# new_book = {"title": "investissez", "author": "kayasaku", "year": 1997}
+# Books.append(new_book)
+# Books.sort(key=lambda Books: Books["year"]) 
+# print(Books)
 
 
 
